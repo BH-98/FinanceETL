@@ -1,0 +1,14 @@
+Finance ETL Project
+
+Aim:
+
+Build an ETL pipeline to extract finance data from an API, transform into fact and dimension tables and load into an OLAP database.
+
+Tools:
+
+Docker
+Airflow
+Python
+SQL
+Postgres
+API
